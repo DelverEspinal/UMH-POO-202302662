@@ -1,0 +1,8 @@
+C:\UMH-POO\Directorio\Directorio\obj\Debug\Directorio.csproj.AssemblyReference.cache
+C:\UMH-POO\Directorio\Directorio\obj\Debug\Directorio.csproj.CoreCompileInputs.cache
+C:\UMH-POO\Directorio\Directorio\bin\Debug\Directorio.exe.config
+C:\UMH-POO\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\UMH-POO\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\UMH-POO\Directorio\Directorio\obj\Debug\Directorio.exe
+C:\UMH-POO\Directorio\Directorio\obj\Debug\Directorio.pdb
+C:\UMH-POO\Directorio\Directorio\obj\Debug\Directorio.exe.config
