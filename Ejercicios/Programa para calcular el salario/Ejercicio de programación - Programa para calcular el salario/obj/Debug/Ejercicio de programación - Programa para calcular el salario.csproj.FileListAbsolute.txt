@@ -1,0 +1,8 @@
+C:\UMH-POO\Ejercicio de programación - Programa para calcular el salario\Ejercicio de programación - Programa para calcular el salario\obj\Debug\Ejercicio de programación - Programa para calcular el salario.csproj.AssemblyReference.cache
+C:\UMH-POO\Ejercicio de programación - Programa para calcular el salario\Ejercicio de programación - Programa para calcular el salario\obj\Debug\Ejercicio de programación - Programa para calcular el salario.csproj.CoreCompileInputs.cache
+C:\UMH-POO\Ejercicio de programación - Programa para calcular el salario\Ejercicio de programación - Programa para calcular el salario\bin\Debug\Ejercicio de programación - Programa para calcular el salario.exe.config
+C:\UMH-POO\Ejercicio de programación - Programa para calcular el salario\Ejercicio de programación - Programa para calcular el salario\bin\Debug\Ejercicio de programación - Programa para calcular el salario.exe
+C:\UMH-POO\Ejercicio de programación - Programa para calcular el salario\Ejercicio de programación - Programa para calcular el salario\bin\Debug\Ejercicio de programación - Programa para calcular el salario.pdb
+C:\UMH-POO\Ejercicio de programación - Programa para calcular el salario\Ejercicio de programación - Programa para calcular el salario\obj\Debug\Ejercicio de programación - Programa para calcular el salario.exe
+C:\UMH-POO\Ejercicio de programación - Programa para calcular el salario\Ejercicio de programación - Programa para calcular el salario\obj\Debug\Ejercicio de programación - Programa para calcular el salario.pdb
+C:\UMH-POO\Ejercicio de programación - Programa para calcular el salario\Ejercicio de programación - Programa para calcular el salario\obj\Debug\Ejercicio de programación - Programa para calcular el salario.exe.config
